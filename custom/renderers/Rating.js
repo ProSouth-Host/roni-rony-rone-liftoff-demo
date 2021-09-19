@@ -7,7 +7,7 @@ const SpotifyPlaylist = ({ value }) => {
 
   return (
     <div className="Rating">
-      <h2>The VeRRRdict: </h2>
+      <h2>Find912 Rating: </h2>
       {stars.map(star => (
         <span role="img" aria-label="rating star">
           {star}
